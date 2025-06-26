@@ -1,0 +1,13 @@
+﻿Month,Units_Used,Bill_Amount,People,Fan_Hours,AC_Hours,Fridge_Watt,Washing_Hours,Cooking_Mins,Comments
+Jan 2024,200,878,4,1079,0,160,4,92,Cool weather
+Feb 2024,201,757,4,1070,0,160,6,108,Cool weather
+Mar 2024,385,1747,4,1359,109,160,4,91,Moderate
+Apr 2024,583,2243,4,1744,221,160,6,85,Hot month
+May 2024,670,3122,4,1478,292,160,6,107,Hot month
+Jun 2024,444,1936,4,1585,137,160,5,96,Moderate
+Jul 2024,442,1654,4,1476,141,160,6,78,Moderate
+Aug 2024,550,2354,4,1706,202,160,3,83,Hot month
+Sep 2024,283,1346,4,1385,40,160,5,76,Moderate
+Oct 2024,311,1243,4,1125,72,160,3,83,Moderate
+Nov 2024,183,856,4,856,0,160,3,100,Cool weather
+Dec 2024,206,803,4,1142,0,160,6,82,Cool weather
